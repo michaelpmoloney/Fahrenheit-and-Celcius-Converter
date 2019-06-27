@@ -1,0 +1,22 @@
+program1
+Press C to convert fahrenheit to celsius.
+Press F to convert celsius to fahrenheit.
+Press Q to quit program.
+Please enter your choice: wefwef
+Input must be C, F, or Q. 
+Please enter your choice: c
+Enter fahrenheit degree to be converted to celsius: -1003.34
+-1003.34 degrees Fahrenheit converts to    -575.19 degrees Celsius.
+Press C to convert fahrenheit to celsius.
+Press F to convert celsius to fahrenheit.
+Press Q to quit program.
+Please enter your choice: F
+Enter fahrenheit degree to be converted to celsius: 44 44
+Input must be a single number. Enter celcius degree to be converted to fahrenheit: 78
+   78.00 degrees Celsius converts to     172.40 degrees Fahrenheit.
+Press C to convert fahrenheit to celsius.
+Press F to convert celsius to fahrenheit.
+Press Q to quit program.
+Please enter your choice: Q
+Quitting
+diary off
